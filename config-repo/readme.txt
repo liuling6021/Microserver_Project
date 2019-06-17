@@ -1,1 +1,1 @@
-配置仓库
+这是config-label-test分支的配置仓库
